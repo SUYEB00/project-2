@@ -1,0 +1,141 @@
+.body{
+    background-color: #E8E6DE;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: #EEEDE7;
+    color: #503217;
+    font-family: monospace;
+}
+.logoicon{
+    display: flex;
+    gap: 10px;
+}
+.logoicon img{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+.logoicon h3{
+    margin-top: 30px;
+}
+.pages ul{
+display: flex;
+gap: 50px;
+}
+.navicon{
+    display: flex;
+    margin-top: 25px;
+    margin-right: 150px;
+    gap: 20px;
+}
+.mainsection{
+justify-content: space-evenly;
+display: flex;
+background-color: #E8E6DE;
+color: #503217;
+gap: 400px;
+width: 100%;
+height: 400px;
+}
+.mainsection h1{
+position: absolute;
+margin-left: 50px;
+margin-top: 50px;
+}
+.mainsection p{
+position: absolute;
+margin-left: 50px;
+margin-top: 180px;
+}
+.mainsection button{
+position: absolute;
+margin-left: 50px;
+margin-top: 250px;
+}
+.mainsection button{
+    text-align: center;
+    gap: 3px;
+    display: flex;
+    width: 80px;
+    height: 20px;
+    background-color: #503217;
+    font-family: monospace;
+    color: white;
+    border-radius: 5px;
+    font-size: x-small;
+}
+.category-text{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+}
+.category-text h3{
+color: #503217;
+font-family: monospace;
+}
+.card{
+    height: 230px;
+    width: 150px;
+    border: solid 1px #8F7D6A1A;
+    padding-top: 20px;
+    font-family: monospace;
+}
+.category-card{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+}
+.collection{
+    display: flex;
+    padding: 30px;
+    background-color: #E8E6DE;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sanitizer{
+    margin: 30px;
+    display: flex;
+    gap: 100px;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    height: 170px;
+    width: 400px;
+    background-color: #F2F2F2;
+    border: solid 1px #8F7D6A1A;
+}
+
+.sanitizer p{
+    margin-top: 35px;
+    margin-right: 10px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 20px;
+    background-color: #D3744A;
+   font-family: monospace;
+   font-size: x-small;
+}
+.sanitizer h3{
+    font-family: monospace;
+    color: #503217;
+    font-size: x-small;
+}
+.sanitizer img{
+    margin-top: 10px;
+}
+.sanitizer button{
+background-color: #E8E6DE;
+color: #503217;
+border: none;
+}

@@ -189,7 +189,7 @@ border: none;
     display: flex;
     height: 80px;
     justify-content: space-evenly;
-    background-color: #E8E6DE;
+    background-color: #EEEDE7;
     color: #503217;
      font-family: monospace;
 }
@@ -197,7 +197,7 @@ border: none;
     display: flex;
     height: 150px;
     justify-content: space-evenly;
-    background-color: #E8E6DE;
+    background-color: #EEEDE7;
      font-family: monospace;
 }
 .comments-p p{
@@ -211,7 +211,7 @@ border: none;
  display: flex;
     height: 150px;
     justify-content: space-evenly;
-    background-color: #E8E6DE;
+    background-color: #EEEDE7;
     color: #503217;
      font-family: monospace;
 }

@@ -103,7 +103,7 @@ font-family: monospace;
     justify-content: space-evenly;
 }
 .sanitizer{
-    margin: 30px;
+    margin-top: 30px;
     display: flex;
     gap: 100px;
     justify-content: space-evenly;
@@ -121,7 +121,7 @@ font-family: monospace;
     color: white;
     border-radius: 5px;
     width: 70px;
-    height: 20px;
+    height: 30px;
     background-color: #D3744A;
    font-family: monospace;
    font-size: x-small;
@@ -138,4 +138,117 @@ font-family: monospace;
 background-color: #E8E6DE;
 color: #503217;
 border: none;
+}
+.product-text{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+    color: #503217;
+   font-family: monospace;
+}
+.product-div{
+    display: flex;
+    height: 320px;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+}
+.product-card{
+  margin-top: 10px;
+  display: flex;
+  background-color: white;
+  height: 230px;
+  width: 240px;
+  gap: 50px;
+  border-radius: 5px;
+}
+.product-card button{
+    margin-top: 35px;
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    background-color: #D3744A;
+   font-family: monospace;
+   font-size: x-small;
+   border: none;
+}
+.product-card img{
+     margin-top: 40px;
+    margin-right: 60px;
+}
+.product-div h3, p{
+     background-color: #E8E6DE;
+    color: #503217;
+   font-family: monospace;
+}
+.comments{
+    display: flex;
+    height: 80px;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+    color: #503217;
+     font-family: monospace;
+}
+.comments-p{
+    display: flex;
+    height: 150px;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+     font-family: monospace;
+}
+.comments-p p{
+    padding: 30px;
+    text-align: center;
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+}
+.manager-main-div{
+ display: flex;
+    height: 150px;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+    color: #503217;
+     font-family: monospace;
+}
+.manager-div{
+    display: flex;
+    gap: 20px;
+}
+.manager-div img{
+    margin-top: 15px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    background-color: #E8E6DE;
+    font-family: monospace;
+}
+.footer-pages{
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
+}
+.middlefoot{
+    display: flex;
+    margin-top: 30px; 
+    gap: 10px;
+}
+.lastfoot{
+margin-right: 50px;
+}
+.footdiv{
+   height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #E8E6DE;
+    color: #503217;
+   font-family: monospace;
 }
